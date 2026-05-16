@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/qt/qml/2048_release">
+        <file>main.qml</file>
+	<file>icon.png</file>
+	<file>settings_icon.png</file>
+	<file>cross.png</file>
+	<file>white_cross.png</file>
+	<file>pop_sound.wav</file>
+	<file>beep_2.wav</file>
+	<file>beep_3.wav</file>
+	<file>beep_4.wav</file>
+    </qresource>
+</RCC>
