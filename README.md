@@ -46,6 +46,7 @@ All data is stored in settings.txt file next to the .exe file.
 # How to install?
 - Go to "Releases"
 - Download 2048.zip
+- Unzip the archive
 - Run 2048.exe
 - Create a shortcut and move it anywhere
 
