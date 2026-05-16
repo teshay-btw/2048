@@ -50,5 +50,6 @@ All data is stored in settings.txt file next to the .exe file.
 - Run 2048.exe
 - Create a shortcut and move it anywhere
 
+# Screenshots
 <img width="492" height="602" alt="2048_release_ytZSqa6MZd" src="https://github.com/user-attachments/assets/64595bed-87b8-4881-b48d-3f128391dca2" />
 <img width="492" height="602" alt="2048_4MG6SFXm3q" src="https://github.com/user-attachments/assets/80156015-af56-4a75-bd2d-7c3402fe4848" />
