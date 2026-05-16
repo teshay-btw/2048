@@ -11,22 +11,22 @@ A new version of the classic 2048 game, written in Qt/QML, with advanced feature
 ## Two game modes
 ### Classic Mode
 #### Standard 2048 rules:
-- numbers cannot be combined multiple times, e.g. 2222->44
-- standard connection order, e.g. 222->24
+- numbers cannot be combined multiple times, e.g. 2 2 2 2 -> 4 4
+- standard connection order, e.g. 2 2 2 -> 2 4
 - after each move, a tile of 2 or 4 appears
 - a tile cannot appear without moving or combining
 
 ### Custom Mode
 #### Advanced logic:
-- tiles can be chained, e.g. 2222->8
-- different connection order, e.g. 222->42
+- tiles can be chained, e.g. 2 2 2 2 -> 8
+- different connection order, e.g. 2 2 2 -> 4 2
 - only 2 can appear
 - a tile can appear even without moving the others or combining
 
 # Themes
 ### The game offers three themes:
-- Normal — classic, light-colored.
-- Dark - dark, minimalist, with a blue tint.
+- Normal — classic, light-colored
+- Dark — dark, minimalist, with a blue tint
 - Neon — bright, high-contrast, neon-colored
 
 # Sounds
